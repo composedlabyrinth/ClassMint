@@ -1,4 +1,4 @@
-ClassMint - Rewarding Engagement, One Token at a Times
+ClassMint - Rewarding Engagement, One Token at a Time
 
 ![CMlogo](https://github.com/user-attachments/assets/42399949-a796-484b-b78c-10969b421f22)
 
